@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BookListingGoogle</string>
+    <string name="API_KEY">AIzaSyC3bpAhTsNKN8DfrVfWK5dRjfRvmpyX1nE</string>
+    <string name="search_again">Go Back and Search Again !!!</string>
+    <string name="warning_connect_wifi">Connect Device to WiFi or LAN</string>
+</resources>
